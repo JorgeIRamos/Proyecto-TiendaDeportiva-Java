@@ -34,5 +34,5 @@ Ir a la carpeta llamada **dist** donde encontrara un archivo llamado **PROYECTO.
 
 ## 👨‍💻 Autor
 
-Jorge Iván Ramos
+Jorge Iván Ramos.
 Proyecto académico desarrollado en Java.
